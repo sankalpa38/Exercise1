@@ -44,7 +44,7 @@ public class CardTrick {
         card[i] = input.nextInt();
         }
         
-        System.out.println("Your card is there, You are a winner");
+       
         
         
         
