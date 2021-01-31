@@ -45,7 +45,7 @@ public class CardTrick {
         }
         
         
-        
+         System.out.println("Your card is there, You are a winner");
         
         
         
