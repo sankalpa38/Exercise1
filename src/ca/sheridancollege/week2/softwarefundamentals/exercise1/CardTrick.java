@@ -40,11 +40,11 @@ public class CardTrick {
         
         int[] card= new int[7];
         for(int i = 0; i< 7; i++){                                                                                                                                                                                                                           
-        System.out.print("Read the Card value and Suit " + 1 + ":");
+        System.out.print("Please enter the card of your choice Card Value and Suit " + 1 + ":");
         card[i] = input.nextInt();
         }
         
-        
+        System.out.println("Your card is there, You are a winner");
         
         
         
